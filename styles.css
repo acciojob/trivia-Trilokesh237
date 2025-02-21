@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+.quote{
+	width:600px;
+	background-color:#f8fffe;
+	padding:15px;
+	border-left:8px solid green;
+	margin:10px;
+	font-weight:bold;
+}
